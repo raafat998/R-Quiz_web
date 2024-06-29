@@ -1,0 +1,506 @@
+{
+  "Technical_Skills_Quiz": {
+    "Question": [
+      {
+        "Question 1": "Which programming language is most commonly used for web development?",
+        "asnwer_1": "C++",
+        "asnwer_2": "JavaScript",
+        "asnwer_3": "Python",
+        "asnwer_4": "Ruby",
+        "correct_answer": "JavaScript"
+      },
+      {
+        "Question 2": "Which of the following is not an operating system?",
+        "asnwer_1": "Windows",
+        "asnwer_2": "Linux",
+        "asnwer_3": "Docker",
+        "asnwer_4": "macOS",
+        "correct_answer": "Docker"
+      },
+      {
+        "Question 3": "What is DevOps?",
+        "asnwer_1": "A project management tool",
+        "asnwer_2": "A set of practices that combines software development and IT operations",
+        "asnwer_3": "A programming language",
+        "asnwer_4": "A software testing tool",
+        "correct_answer": "A set of practices that combines software development and IT operations"
+      },
+      {
+        "Question 4": "What is the primary function of a database?",
+        "asnwer_1": "To enhance application performance",
+        "asnwer_2": "To store and retrieve data",
+        "asnwer_3": "To execute code",
+        "asnwer_4": "To manage system resources",
+        "correct_answer": "To store and retrieve data"
+      },
+      {
+        "Question 5": "Which of the following is a version control tool?",
+        "asnwer_1": "Git",
+        "asnwer_2": "Photoshop",
+        "asnwer_3": "Excel",
+        "asnwer_4": "Word",
+        "correct_answer": "Git"
+      },
+      {
+        "Question 6": "What is the main purpose of using a Virtual Private Network (VPN)?",
+        "asnwer_1": "To improve internet speed",
+        "asnwer_2": "To secure data and communications over the internet",
+        "asnwer_3": "To browse the internet without restrictions",
+        "asnwer_4": "To download files faster",
+        "correct_answer": "To secure data and communications over the internet"
+      },
+      {
+        "Question 7": "Which of the following is a web development framework?",
+        "asnwer_1": "Microsoft Word",
+        "asnwer_2": "AutoCAD",
+        "asnwer_3": "Illustrator",
+        "asnwer_4": "Angular",
+        "correct_answer": "Angular"
+      },
+      {
+        "Question 8": "What is the main difference between HDD and SSD?",
+        "asnwer_1": "HDD is random access memory while SSD is fixed memory",
+        "asnwer_2": "HDD is faster than SSD",
+        "asnwer_3": "HDD uses mechanical parts while SSD uses flash memory",
+        "asnwer_4": "HDD is more expensive than SSD",
+        "correct_answer": "HDD uses mechanical parts while SSD uses flash memory"
+      },
+      {
+        "Question 9": "Which of the following is a protocol for transferring data over the internet?",
+        "asnwer_1": "FTP",
+        "asnwer_2": "HTML",
+        "asnwer_3": "CSS",
+        "asnwer_4": "JSON",
+        "correct_answer": "FTP"
+      },
+      {
+        "Question 10": "What is the concept of (modularity) in programming?",
+        "asnwer_1": "Storing data in a database",
+        "asnwer_2": "Testing system performance",
+        "asnwer_3": "Improving user interface",
+        "asnwer_4": "Using pre-built libraries for common functions",
+        "correct_answer": "Using pre-built libraries for common functions"
+      }
+    ]
+  },
+  "Behavioral_Skill_Quiz": {
+    "Question": [
+      {
+        "Question 1": "What is the best way to handle conflicts in the workplace?",
+        "asnwer_1": "Avoid the person you have a conflict with",
+        "asnwer_2": "Address the conflict objectively and talk to the person involved",
+        "asnwer_3": "Talk to other colleagues about the conflict",
+        "asnwer_4": "Ignore the conflict and wait for it to resolve itself",
+        "correct_answer": "Address the conflict objectively and talk to the person involved"
+      },
+      {
+        "Question 2": "What is a key element of teamwork?",
+        "asnwer_1": "Competing with team members",
+        "asnwer_2": "Effective communication with team members",
+        "asnwer_3": "Relying on others to get the work done",
+        "asnwer_4": "Focusing only on your personal tasks",
+        "correct_answer": "Effective communication with team members"
+      },
+      {
+        "Question 3": "What is the best way to improve active listening skills?",
+        "asnwer_1": "Thinking about what you will say after the person finishes talking",
+        "asnwer_2": "Pretending to listen and giving non-substantive feedback",
+        "asnwer_3": "Interrupting the speaker when you feel bored",
+        "asnwer_4": "Paying full attention to the speaker and providing meaningful feedback",
+        "correct_answer": "Paying full attention to the speaker and providing meaningful feedback"
+      },
+      {
+        "Question 4": "How can you manage your time effectively?",
+        "asnwer_1": "Doing the most difficult tasks first",
+        "asnwer_2": "Procrastinating on tasks until the last minute",
+        "asnwer_3": "Working on multiple tasks at the same time",
+        "asnwer_4": "Focusing on small, unimportant tasks first",
+        "correct_answer": "Doing the most difficult tasks first"
+      },
+      {
+        "Question 5": "What is the best way to deal with stress at work?",
+        "asnwer_1": "Ignore the stress and hope it goes away",
+        "asnwer_2": "Take regular breaks and practice relaxation techniques",
+        "asnwer_3": "Work longer hours to get everything done",
+        "asnwer_4": "Complain to colleagues about your workload",
+        "correct_answer": "Take regular breaks and practice relaxation techniques"
+      },
+      {
+        "Question 6": "What is an important aspect of effective communication?",
+        "asnwer_1": "Talking more than listening",
+        "asnwer_2": "Using technical jargon to appear knowledgeable",
+        "asnwer_3": "Being clear and concise in your messages",
+        "asnwer_4": "Dominating the conversation",
+        "correct_answer": "Being clear and concise in your messages"
+      },
+      {
+        "Question 7": "How can you demonstrate a positive attitude at work?",
+        "asnwer_1": "Complaining about tasks",
+        "asnwer_2": "Showing enthusiasm and willingness to help",
+        "asnwer_3": "Ignoring team discussions",
+        "asnwer_4": "Focusing solely on personal achievements",
+        "correct_answer": "Showing enthusiasm and willingness to help"
+      },
+      {
+        "Question 8": "What is crucial for making good decisions?",
+        "asnwer_1": "Acting quickly without considering all information",
+        "asnwer_2": "Gathering relevant information and analyzing it",
+        "asnwer_3": "Following others' decisions without question",
+        "asnwer_4": "Avoiding responsibility",
+        "correct_answer": "Gathering relevant information and analyzing it"
+      },
+      {
+        "Question 9": "How should you handle constructive criticism?",
+        "asnwer_1": "Ignoring it",
+        "asnwer_2": "Becoming defensive",
+        "asnwer_3": "Listening and using it to improve",
+        "asnwer_4": "Arguing with the person giving the feedback",
+        "correct_answer": "Listening and using it to improve"
+      },
+      {
+        "Question 10": "What is an effective way to build trust with your colleagues?",
+        "asnwer_1": "Keeping information to yourself",
+        "asnwer_2": "Being honest and transparent",
+        "asnwer_3": "Competing with them",
+        "asnwer_4": "Taking credit for their work",
+        "correct_answer": "Being honest and transparent"
+      }
+    ]
+  },
+  "Mock_Interview": {
+    "Question": [
+      {
+        "Question 1": "What is your greatest strength?",
+        "asnwer_1": "I never make mistakes",
+        "asnwer_2": "I have strong communication skills",
+        "asnwer_3": "I can work without any help",
+        "asnwer_4": "I prefer to work alone",
+        "correct_answer": "I have strong communication skills"
+      },
+      {
+        "Question 2": "How do you handle tight deadlines?",
+        "asnwer_1": "I ignore the deadlines and work at my own pace",
+        "asnwer_2": "I prioritize my tasks and focus on completing the most important ones first",
+        "asnwer_3": "I delegate all my work to others",
+        "asnwer_4": "I avoid taking any breaks until the work is done",
+        "correct_answer": "I prioritize my tasks and focus on completing the most important ones first"
+      },
+      {
+        "Question 3": "Why do you want to work for this company?",
+        "asnwer_1": "I heard the pay is good",
+        "asnwer_2": "I need a job desperately",
+        "asnwer_3": "I am impressed by the company’s mission and values and believe my skills and interests align well with your goals",
+        "asnwer_4": "My friend works here and recommended it",
+        "correct_answer": "I am impressed by the company’s mission and values and believe my skills and interests align well with your goals"
+      },
+      {
+        "Question 4": "How do you handle criticism?",
+        "asnwer_1": "I get defensive and explain why the criticism is wrong",
+        "asnwer_2": "I listen to the feedback, thank the person, and use it as an opportunity to improve",
+        "asnwer_3": "I ignore it completely",
+        "asnwer_4": "I get upset and take it personally",
+        "correct_answer": "I listen to the feedback, thank the person, and use it as an opportunity to improve"
+      },
+      {
+        "Question 5": "Can you describe a time when you had to solve a difficult problem?",
+        "asnwer_1": "I avoid difficult problems whenever possible",
+        "asnwer_2": "I ignore the problem and hope it resolves itself",
+        "asnwer_3": "I assess the situation, gather relevant information, and consider various solutions before implementing the best one",
+        "asnwer_4": "I delegate the problem to someone else",
+        "correct_answer": "I assess the situation, gather relevant information, and consider various solutions before implementing the best one"
+      },
+      {
+        "Question 6": "What motivates you to do your best at work?",
+        "asnwer_1": "The fear of getting fired",
+        "asnwer_2": "The satisfaction of doing a good job and achieving goals",
+        "asnwer_3": "The desire to avoid criticism",
+        "asnwer_4": "The need to pass time",
+        "correct_answer": "The satisfaction of doing a good job and achieving goals"
+      },
+      {
+        "Question 7": "Where do you see yourself in five years?",
+        "asnwer_1": "I haven’t thought about it.",
+        "asnwer_2": "Working at a different company",
+        "asnwer_3": "Growing within this company, taking on more responsibilities, and contributing to its success",
+        "asnwer_4": "Retired and living on a beach",
+        "correct_answer": "Growing within this company, taking on more responsibilities, and contributing to its success"
+      },
+      {
+        "Question 8": "How do you handle working under pressure?",
+        "asnwer_1": "I crumble under pressure",
+        "asnwer_2": "I thrive under pressure and stay focused on completing my tasks",
+        "asnwer_3": "I avoid pressure by delegating my work",
+        "asnwer_4": "I panic and make mistakes",
+        "correct_answer": "I thrive under pressure and stay focused on completing my tasks"
+      },
+      {
+        "Question 9": "What is your biggest weakness?",
+        "asnwer_1": "I don't have any weaknesses",
+        "asnwer_2": "I work too hard",
+        "asnwer_3": "I tend to get bogged down in details, but I'm working on balancing the big picture with the details",
+        "asnwer_4": "I don’t like working in teams",
+        "correct_answer": " I tend to get bogged down in details, but I'm working on balancing the big picture with the details"
+      },
+      {
+        "Question 10": "How do you prioritize your work?",
+        "asnwer_1": "I do the easiest tasks first",
+        "asnwer_2": "I focus on the tasks I enjoy the most",
+        "asnwer_3": "I let my manager decide my priorities",
+        "asnwer_4": "I assess the urgency and importance of each task and create a plan to address high-priority items first",
+        "correct_answer": "I assess the urgency and importance of each task and create a plan to address high-priority items first"
+      }
+    ]
+  },
+  "Company_Specific_Quiz": {
+    "Question": [
+      {
+        "Question 1": "What year was TechCorp founded?",
+        "asnwer_1": "1998",
+        "asnwer_2": "2005",
+        "asnwer_3": "2010",
+        "asnwer_4": "2015",
+        "correct_answer": "2005"
+      },
+      {
+        "Question 2": "Who is the current CEO of TechCorp?",
+        "asnwer_1": "John Smith",
+        "asnwer_2": "Sarah Johnson",
+        "asnwer_3": "Michael Brown",
+        "asnwer_4": "Emily Davis",
+        "correct_answer": "John Smith"
+      },
+      {
+        "Question 3": "What is TechCorp's primary product?",
+        "asnwer_1": "Consumer electronics",
+        "asnwer_2": "Financial services",
+        "asnwer_3": "Cloud-based software solutions",
+        "asnwer_4": "Automotive parts",
+        "correct_answer": "Cloud-based software solutions"
+      },
+      {
+        "Question 4": "Where is TechCorp's headquarters located?",
+        "asnwer_1": "New York, NY",
+        "asnwer_2": "San Francisco, CA",
+        "asnwer_3": "Austin, TX",
+        "asnwer_4": "Seattle, WA",
+        "correct_answer": "San Francisco, CA"
+      },
+      {
+        "Question 5": "Which of the following is a core value of TechCorp?",
+        "asnwer_1": "Innovation",
+        "asnwer_2": "Tradition",
+        "asnwer_3": "Profitability",
+        "asnwer_4": "Competition",
+        "correct_answer": "Innovation"
+      },
+      {
+        "Question 6": "How many employees does TechCorp have globally?",
+        "asnwer_1": "500",
+        "asnwer_2": "2,000",
+        "asnwer_3": "5,000",
+        "asnwer_4": "10,000",
+        "correct_answer": "5,000"
+      },
+      {
+        "Question 7": "In which year did TechCorp go public?",
+        "asnwer_1": "2008",
+        "asnwer_2": "2012",
+        "asnwer_3": "2016",
+        "asnwer_4": "2020",
+        "correct_answer": "2016"
+      },
+      {
+        "Question 8": "What is the name of TechCorp's flagship product?",
+        "asnwer_1": "TechSuite",
+        "asnwer_2": "CloudMaster",
+        "asnwer_3": "DataPro",
+        "asnwer_4": "InnovatePlus",
+        "correct_answer": "TechSuite"
+      },
+      {
+        "Question 9": "Which industry does TechCorp primarily serve?",
+        "asnwer_1": "Healthcare",
+        "asnwer_2": "Retail",
+        "asnwer_3": "Technology",
+        "asnwer_4": "Education",
+        "correct_answer": "Technology"
+      },
+      {
+        "Question 10": "What is the mission statement of TechCorp?",
+        "asnwer_1": "To be the most profitable company in the industry",
+        "asnwer_2": "To innovate and provide cutting-edge technology solutions that empower businesses worldwide",
+        "asnwer_3": "To maintain tradition and excellence in all products",
+        "asnwer_4": "To compete and win in the global market",
+        "correct_answer": "To innovate and provide cutting-edge technology solutions that empower businesses worldwide"
+      }
+    ]
+  },
+  "Industry_Knowledge_Quiz": {
+    "Question": [
+      {
+        "Question 1": "What does SaaS stand for in the tech industry?",
+        "asnwer_1": "Software as a Service",
+        "asnwer_2": "Security as a Service",
+        "asnwer_3": "System as a Service",
+        "asnwer_4": "Solution as a Service",
+        "correct_answer": "Software as a Service"
+      },
+      {
+        "Question 2": "Who is considered the father of the World Wide Web?",
+        "asnwer_1": "Bill Gates",
+        "asnwer_2": "Steve Jobs",
+        "asnwer_3": "Tim Berners-Lee",
+        "asnwer_4": "Mark Zuckerberg",
+        "correct_answer": "Tim Berners-Lee"
+      },
+      {
+        "Question 3": "What is the primary purpose of HIPAA in the healthcare industry?",
+        "asnwer_1": "To regulate pharmaceutical prices",
+        "asnwer_2": "To ensure the privacy and security of patient information",
+        "asnwer_3": "To improve the quality of healthcare services",
+        "asnwer_4": "To fund medical research",
+        "correct_answer": "To ensure the privacy and security of patient information"
+      },
+      {
+        "Question 4": "Which of the following is a common electronic health record (EHR) system?",
+        "asnwer_1": "Salesforce",
+        "asnwer_2": "QuickBooks",
+        "asnwer_3": "Epic",
+        "asnwer_4": "Oracle",
+        "correct_answer": "Epic"
+      },
+      {
+        "Question 5": "What does ROI stand for in finance?",
+        "asnwer_1": "Rate of Investment",
+        "asnwer_2": "Return on Investment",
+        "asnwer_3": "Revenue of Investment",
+        "asnwer_4": "Ratio of Investment",
+        "correct_answer": "Return on Investment"
+      },
+      {
+        "Question 6": "Which of the following is an example of a stock exchange?",
+        "asnwer_1": "Federal Reserve",
+        "asnwer_2": "Nasdaq",
+        "asnwer_3": "IRS",
+        "asnwer_4": "WTO",
+        "correct_answer": "Nasdaq"
+      },
+      {
+        "Question 7": "What is the primary function of a Point of Sale (POS) system in retail?",
+        "asnwer_1": "Managing inventory",
+        "asnwer_2": "AutoCAD",
+        "asnwer_3": "Marketing products",
+        "asnwer_4": "Tracking employee performance",
+        "correct_answer": "Processing sales transactions"
+      },
+      {
+        "Question 8": "What does SKU stand for in the retail industry?",
+        "asnwer_1": "Stock Keeping Unit",
+        "asnwer_2": "Sales Keeping Unit",
+        "asnwer_3": "Storage Key Unit",
+        "asnwer_4": "System Key Unit",
+        "correct_answer": "Stock Keeping Unit"
+      },
+      {
+        "Question 9": "Which methodology focuses on continuous improvement and reducing waste in manufacturing?",
+        "asnwer_1": "Six Sigma",
+        "asnwer_2": "Lean Manufacturing",
+        "asnwer_3": "Agile",
+        "asnwer_4": "Waterfall",
+        "correct_answer": "Lean Manufacturing"
+      },
+      {
+        "Question 10": "What is the term for a production strategy where products are made based on actual demand rather than forecasted demand?",
+        "asnwer_1": "Just-in-time (JIT)",
+        "asnwer_2": "Batch production",
+        "asnwer_3": "Mass production",
+        "asnwer_4": "Continuous production",
+        "correct_answer": "Just-in-time (JIT)"
+      }
+    ]
+  },
+  "Personality_Assessment": {
+    "Question": [
+      {
+        "Question 1": "Which personality trait is associated with being organized and reliable?",
+        "asnwer_1": "Extraversion",
+        "asnwer_2": "Agreeableness",
+        "asnwer_3": "Conscientiousness",
+        "asnwer_4": "Neuroticism",
+        "correct_answer": "Conscientiousness"
+      },
+      {
+        "Question 2": "Which of the following traits is a part of the (Big Five) personality traits?",
+        "asnwer_1": "Creativity",
+        "asnwer_2": "Optimism",
+        "asnwer_3": "Openness",
+        "asnwer_4": "Humility",
+        "correct_answer": "Openness"
+      },
+      {
+        "Question 3": "Someone who enjoys social interactions and being around people is likely high in which trait?",
+        "asnwer_1": "Introversion",
+        "asnwer_2": "Extraversion",
+        "asnwer_3": "Neuroticism",
+        "asnwer_4": "Conscientiousness",
+        "correct_answer": "Extraversion"
+      },
+      {
+        "Question 4": "What does the (N) in the Myers-Briggs Type Indicator (MBTI) stand for?",
+        "asnwer_1": "Neurotic",
+        "asnwer_2": "Natural",
+        "asnwer_3": "Intuitive",
+        "asnwer_4": "Nurturing",
+        "correct_answer": "Intuitive"
+      },
+      {
+        "Question 5": "Which personality type is characterized by being practical, realistic, and dependable in the MBTI?",
+        "asnwer_1": "ENFP",
+        "asnwer_2": "INTP",
+        "asnwer_3": "ISTJ",
+        "asnwer_4": "ESFP",
+        "correct_answer": "ISTJ"
+      },
+      {
+        "Question 6": "What is a common characteristic of people with high levels of agreeableness?",
+        "asnwer_1": "Trustworthiness",
+        "asnwer_2": "Anxiousness",
+        "asnwer_3": "Creativity",
+        "asnwer_4": "Assertiveness",
+        "correct_answer": "Trustworthiness"
+      },
+      {
+        "Question 7": "Which personality trait is most associated with experiencing frequent and intense negative emotions?",
+        "asnwer_1": "Openness",
+        "asnwer_2": "Conscientiousness",
+        "asnwer_3": "Neuroticism",
+        "asnwer_4": "Agreeableness",
+        "correct_answer": "Neuroticism"
+      },
+      {
+        "Question 8": "A person who is open to new experiences and imaginative is likely high in which trait?",
+        "asnwer_1": "Conscientiousness",
+        "asnwer_2": "Agreeableness",
+        "asnwer_3": "Extraversion",
+        "asnwer_4": "Openness",
+        "correct_answer": "Openness"
+      },
+      {
+        "Question 9": "In the context of the DISC personality assessment, what does the (D) stand for?",
+        "asnwer_1": "Dependable",
+        "asnwer_2": "Detailed",
+        "asnwer_3": "Dominance",
+        "asnwer_4": "Diplomatic",
+        "correct_answer": "Dominance"
+      },
+      {
+        "Question 10": "Which personality assessment tool categorizes individuals into 16 different personality types?",
+        "asnwer_1": "DISC",
+        "asnwer_2": "Big Five",
+        "asnwer_3": "Enneagram",
+        "asnwer_4": "Myers-Briggs Type Indicator (MBTI)",
+        "correct_answer": "Myers-Briggs Type Indicator (MBTI)"
+      }
+    ]
+  }
+}
